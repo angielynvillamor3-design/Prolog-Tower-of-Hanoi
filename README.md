@@ -1,6 +1,5 @@
 # Tower-of-Hanoi
 
-# Tower-of-Hanoi
 
 🎮 **[PLAY TOWER OF HANOI HERE](https://angielynvillamor3-design.github.io/Prolog-Tower-of-Hanoi/tower%20of%20hanoi/)**
 
