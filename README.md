@@ -3,6 +3,7 @@
 An interactive Tower of Hanoi game with an automatic solver, smooth ring animations and sound effects. Built with plain HTML, CSS and JavaScript, with no external dependencies.
 
 #Features
+
 Three towers (A, B, C) on a wooden platform, with colorful gradient rings
 AUTO SOLVE using the recursive Tower of Hanoi algorithm (A to C, with B as the spare)
 PAUSE and RESUME from the exact current move
@@ -16,6 +17,7 @@ Live display of moves, minimum moves, elapsed time, status and progress
 Responsive layout for desktop, tablet and mobile
 
 #The Rules
+
 Move only one disk at a time.
 Only move the top disk of a tower.
 Never place a larger disk on top of a smaller one.
