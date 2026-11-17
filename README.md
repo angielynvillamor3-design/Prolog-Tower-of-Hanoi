@@ -30,3 +30,10 @@ To move `n` disks from tower A to tower C using tower B as the spare:
 3. Move the `n - 1` disks from B to C.
 
 The fewest possible moves is `2^n - 1` (7 for 3 disks, 255 for 8 disks).
+
+
+# Tower-of-Hanoi
+
+🎮 **[PLAY TOWER OF HANOI HERE](https://angielynvillamor3-design.github.io/Prolog-Tower-of-Hanoi/tower%20of%20hanoi/)**
+
+
